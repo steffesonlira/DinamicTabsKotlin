@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Dynamic-Tabs-Android-master/app/src/main/java/com/alfaizkhan/dynamictabs/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/tabhost/DinamicFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/tabhost/DynamicFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/tabhost/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/tabhost/MyPagerAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/tabhost/TabLayoutFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_material_tab_layout.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_dynamic.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_tab_layout.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Samsung/V3/pm/protocol-manager-app/buildSrc/src/main/java/Versioning.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Samsung/V3/pm/protocol-manager-app/data/persistence/src/main/java/br/org/dmz/dmz2/persistence/infrastructures/SessionStoreInfrastructure.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Samsung/V3/pm/protocol-manager-app/domain/src/main/java/br/org/dmz/dmz2/domain/services/SessionStoreService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Samsung/V3/pm/protocol-manager-app/features/synchronization/src/main/java/br/org/dmz/dmz2/synchronization/SynchronizationViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Samsung/V3/pm/protocol-manager-app/features/volunteer/src/main/java/br/org/dmz/dmz2/volunteer/volunteerlifecyle/VolunteerLifeCycleFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Samsung/V3/pm/protocol-manager-app/features/volunteer/src/main/java/br/org/dmz/dmz2/volunteer/volunteerlifecyle/adapters/profileclassification/ProfileAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Samsung/V3/pm/protocol-manager-app/features/volunteer/src/main/java/br/org/dmz/dmz2/volunteer/volunteerlifecyle/dialogs/volunteerclassification/ProfileClassificationDialog.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Samsung/V3/pm/protocol-manager-app/features/volunteer/src/main/java/br/org/dmz/dmz2/volunteer/volunteerlifecyle/dialogs/volunteerclassification/ProfileClassificationDialogViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Samsung/V3/pm/protocol-manager-app/features/volunteer/src/main/res/layout/item_classification_attributes.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
